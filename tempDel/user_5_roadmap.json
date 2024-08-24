@@ -1,0 +1,10 @@
+[
+    {
+        "label": "Algorithms",
+        "description": "Study algorithms and data structures.\n\nPrerequisites: Basic understanding of programming concepts, Proficiency in at least one programming language, Understanding of time and space complexity analysis\n\nRelevant resources: https://example.com/algorithms-tutorial\n\nRelated topics: Sorting, Searching"
+    },
+    {
+        "label": "AI",
+        "description": "Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. It involves the creation of algorithms and models that enable computers to perform tasks that typically require human intelligence.\n\nPrerequisites: Understanding of basic programming concepts, Proficiency in at least one programming language (e.g., Python, Java), Familiarity with data manipulation and analysis libraries (e.g., Pandas, NumPy)\n\nRelevant resources: https://www.analyticsvidhya.com/, https://www.kaggle.com/\n\nRelated topics: Programming Languages, Data Manipulation"
+    }
+]

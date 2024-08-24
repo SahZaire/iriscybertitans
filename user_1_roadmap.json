@@ -1,0 +1,18 @@
+[
+    {
+        "label": "Cybersecurity Engineering",
+        "description": "Cybersecurity Engineering involves protecting computer systems, networks, and data from cyber threats, attacks, and unauthorized access through the application of technologies, processes, and practices.\n\nPrerequisites: Understanding of basic computer science principles, Proficiency in programming languages (e.g., Python, C, C++), Familiarity with operating systems concepts\n\nRelevant resources: https://www.isc2.org/, https://www.cybrary.it/\n\nRelated topics: Computer Science, Programming Languages"
+    },
+    {
+        "label": "Software Engineering",
+        "description": "Software Engineering is the application of engineering principles to the design, development, testing, and maintenance of software systems.\n\nPrerequisites: Understanding of basic programming concepts, Proficiency in at least one programming language (e.g., Python, Java, C++), Familiarity with data structures and algorithms\n\nRelevant resources: https://www.sei.cmu.edu/, https://www.infoq.com/\n\nRelated topics: Programming Languages, Data Structures"
+    },
+    {
+        "label": "AI",
+        "description": "Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. It involves the creation of algorithms and models that enable computers to perform tasks that typically require human intelligence.\n\nPrerequisites: Understanding of basic programming concepts, Proficiency in at least one programming language (e.g., Python, Java), Familiarity with data manipulation and analysis libraries (e.g., Pandas, NumPy)\n\nRelevant resources: https://www.analyticsvidhya.com/, https://www.kaggle.com/\n\nRelated topics: Programming Languages, Data Manipulation"
+    },
+    {
+        "label": "Business Economics",
+        "description": "Business Economics is a field of applied economics that studies the economic aspects of organizations, markets, and industries, aiming to understand and analyze business decisions, strategies, and outcomes.\n\nPrerequisites: Understanding of basic economics principles, Knowledge of microeconomics and macroeconomics, Familiarity with statistical methods\n\nRelevant resources: https://www.investopedia.com/, https://www.khanacademy.org/\n\nRelated topics: Economics Principles, Microeconomics"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "label": "Software Engineering",
+        "description": "Software Engineering is the application of engineering principles to the design, development, testing, and maintenance of software systems.\n\nPrerequisites: Understanding of basic programming concepts, Proficiency in at least one programming language (e.g., Python, Java, C++), Familiarity with data structures and algorithms\n\nRelevant resources: https://www.sei.cmu.edu/, https://www.infoq.com/\n\nRelated topics: Programming Languages, Data Structures"
+    },
+    {
+        "label": "OOPS",
+        "description": "Object-Oriented Programming (OOP) is a programming paradigm based on the concept of 'objects', which can contain data in the form of fields and code in the form of procedures. It focuses on the design and creation of reusable software components.\n\nPrerequisites: Understanding of basic programming concepts, Proficiency in at least one programming language (e.g., Java, C++, Python), Familiarity with procedural programming\n\nRelevant resources: https://www.javatpoint.com/oops-concepts, https://www.tutorialspoint.com/object_oriented_analysis_design/index.htm\n\nRelated topics: Programming Languages, Procedural Programming"
+    },
+    {
+        "label": "Business Economics",
+        "description": "Business Economics is a field of applied economics that studies the economic aspects of organizations, markets, and industries, aiming to understand and analyze business decisions, strategies, and outcomes.\n\nPrerequisites: Understanding of basic economics principles, Knowledge of microeconomics and macroeconomics, Familiarity with statistical methods\n\nRelevant resources: https://www.investopedia.com/, https://www.khanacademy.org/\n\nRelated topics: Economics Principles, Microeconomics"
+    }
+]

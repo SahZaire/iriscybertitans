@@ -1,0 +1,57 @@
+[
+    {
+        "topic_id": 12,
+        "topic_name": "OOPS",
+        "description": "Object-Oriented Programming (OOP) is a programming paradigm based on the concept of 'objects', which can contain data in the form of fields and code in the form of procedures. It focuses on the design and creation of reusable software components.",
+        "difficulty": "Intermediate",
+        "prerequisites": [
+            "Understanding of basic programming concepts",
+            "Proficiency in at least one programming language (e.g., Java, C++, Python)",
+            "Familiarity with procedural programming",
+            "Knowledge of data structures and algorithms",
+            "Understanding of classes and objects",
+            "Proficiency in inheritance and polymorphism",
+            "Knowledge of encapsulation and abstraction",
+            "Understanding of constructors and destructors",
+            "Proficiency in method overriding and overloading",
+            "Knowledge of access modifiers",
+            "Understanding of class relationships (e.g., association, aggregation, composition)",
+            "Proficiency in exception handling",
+            "Knowledge of interfaces and abstract classes",
+            "Understanding of object-oriented design principles (e.g., SOLID)",
+            "Proficiency in design patterns",
+            "Knowledge of serialization and deserialization",
+            "Understanding of memory management in OOP languages",
+            "Proficiency in unit testing",
+            "Knowledge of OOP concepts in different programming languages",
+            "Understanding of real-world applications of OOP"
+        ],
+        "resources": [
+            "https://www.javatpoint.com/oops-concepts",
+            "https://www.tutorialspoint.com/object_oriented_analysis_design/index.htm",
+            "https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/"
+        ],
+        "related_topics": [
+            "Programming Languages",
+            "Procedural Programming",
+            "Data Structures",
+            "Algorithms",
+            "Inheritance",
+            "Polymorphism",
+            "Encapsulation",
+            "Abstraction",
+            "Constructors and Destructors",
+            "Access Modifiers",
+            "Class Relationships",
+            "Exception Handling",
+            "Interfaces and Abstract Classes",
+            "Object-Oriented Design Principles",
+            "Design Patterns",
+            "Serialization and Deserialization",
+            "Memory Management",
+            "Unit Testing",
+            "OOP in Different Languages",
+            "Real-World Applications of OOP"
+        ]
+    }
+]

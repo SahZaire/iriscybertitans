@@ -1,0 +1,10 @@
+[
+    {
+        "label": "Mechanical Engineering",
+        "description": "Mechanical engineering is the discipline that applies engineering, physics, and materials science principles to design, analyze, manufacture, and maintain mechanical systems.\n\nPrerequisites: Understanding of basic physics principles, Knowledge of mathematics (algebra, calculus), Familiarity with material science concepts\n\nRelevant resources: https://www.asme.org/, https://www.engineersedge.com/\n\nRelated topics: Materials Science, Thermodynamics"
+    },
+    {
+        "label": "Cybersecurity Engineering",
+        "description": "Cybersecurity Engineering involves protecting computer systems, networks, and data from cyber threats, attacks, and unauthorized access through the application of technologies, processes, and practices.\n\nPrerequisites: Understanding of basic computer science principles, Proficiency in programming languages (e.g., Python, C, C++), Familiarity with operating systems concepts\n\nRelevant resources: https://www.isc2.org/, https://www.cybrary.it/\n\nRelated topics: Computer Science, Programming Languages"
+    }
+]
