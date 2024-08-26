@@ -19,7 +19,7 @@ Join us in reshaping the future of education with IRIS!
 
 # Created by CyberTitans 
 Team Members :
-    - Atharva Bansod
-    - Sumeet Gupta
-    - Sahil Nichat
-    - Talha Ansari
+- Atharva Bansod
+- Sumeet Gupta
+- Sahil Nichat
+- Talha Ansari
